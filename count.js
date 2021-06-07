@@ -1,5 +1,5 @@
 function count(age, name ) {
-  console.log( name + " " + age);
+  console.log('counting the countless ' + age + name);
 
 }
 
