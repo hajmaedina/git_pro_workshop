@@ -1,5 +1,6 @@
-function greet(text, name) {
-    console.log(text + name);
+function greet(name) {
+    console.log( 'Sziasztok ismét ' + parameter);
 }
 
-greet('Sziasztok ismét ', 'group9');
+greet('Greetings for the' + parameter);
+
