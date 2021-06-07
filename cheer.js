@@ -1,5 +1,5 @@
 function cheer(chosenLanguage) {
-  console.log(chosenLanguage);
+  console.log(`Cheer for the ${chosenLanguage}`);
 
 }
 
