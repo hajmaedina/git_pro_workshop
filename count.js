@@ -3,3 +3,4 @@ function count(stars ) {
 
 }
 
+count('10');

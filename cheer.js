@@ -1,5 +1,5 @@
-function cheer(chosenLanguage) {
-  console.log(chosenLanguage);
+function cheer(chosenLanguage, groupName) {
+  console.log(chosenLanguage + groupName);
 
 }
 
