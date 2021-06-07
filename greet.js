@@ -1,5 +1,5 @@
-function greet(name) {
-    console.log( 'Szia' + name);
+function greet() {
+    console.log( 'Greatings');
 }
 
 greet('group9');
