@@ -1,5 +1,6 @@
-function count(age, name ) {
-  console.log('counting the countless ' + age + name);
 
+function count(stars ) {
+  console.log(stars);
 }
 
+count('10');
