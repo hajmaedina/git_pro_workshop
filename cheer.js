@@ -1,5 +1,7 @@
-function cheer(chosenLanguage, groupName) {
-  console.log(chosenLanguage + groupName);
+
+function cheer(chosenLanguage) {
+  console.log('Cheer for the ' + chosenLanguage);
+
 
 }
 
