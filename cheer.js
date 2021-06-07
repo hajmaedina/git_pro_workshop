@@ -1,6 +1,6 @@
-function cheer(grName) {
-  console.log(grName);
+function cheer(chosenLanguage) {
+  console.log(chosenLanguage);
 
 }
 
-cheer("group9");
+cheer("javascript");
