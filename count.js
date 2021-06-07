@@ -1,5 +1,5 @@
-function count(age) {
-  console.log(age);
+function count(age, name ) {
+  console.log( name + " " + age);
 
 }
 
