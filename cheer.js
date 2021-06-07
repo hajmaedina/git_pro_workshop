@@ -1,5 +1,5 @@
-function cheer(groupName) {
-  console.log(groupName);
+function cheer(grName) {
+  console.log(grName);
 
 }
 
