@@ -3,3 +3,4 @@ function count(age, name ) {
 
 }
 
+count('10');
