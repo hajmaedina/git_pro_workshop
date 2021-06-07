@@ -1,5 +1,6 @@
-function count(age) {
-  console.log(age);
+function count(number) {
+  console.log(number);
 
 }
 
+count('10');
